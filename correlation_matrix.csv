@@ -1,0 +1,7 @@
+,hours_studied,previous_scores,extracurricular,sleep_hours,practice_papers,performance_index
+hours_studied,1.0,-0.012,0.004,0.001,0.017,0.374
+previous_scores,-0.012,1.0,0.008,0.006,0.008,0.915
+extracurricular,0.004,0.008,1.0,-0.023,0.013,0.025
+sleep_hours,0.001,0.006,-0.023,1.0,0.004,0.048
+practice_papers,0.017,0.008,0.013,0.004,1.0,0.043
+performance_index,0.374,0.915,0.025,0.048,0.043,1.0
