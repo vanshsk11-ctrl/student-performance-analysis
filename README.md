@@ -44,7 +44,6 @@ Source: Kaggle – Student Performance Dataset
 - Previous academic scores showed the strongest relationship with final performance
 - Increased study hours and practicing sample question papers were associated with higher performance
 - Adequate sleep supported improved academic outcomes
-- Extracurricular activities showed a smaller, context-dependent impact on performance
-
+- Extracurricular activities showed a statistically significant increase, however the effect size is small, suggesting a limited practical impact
 ---
 
